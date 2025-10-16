@@ -109,7 +109,7 @@ $$
 
 ### Linke-Hand Regel
 
-![Untitled](Drei%20Finger%20Regel.png)
+![](Magnetisches%20Feld/Drei%20Finger%20Regel.png)
 
 Wenn man die linke Hand so hält und der Daumen in die Richtung, in die sich die Ladungen bewegen und der Zeigefinger in die Richtung der Magnetfeldlinien zeigt, gibt der Mittelfinger dann die Richtung der Lorenzkraft an.
 
@@ -122,7 +122,7 @@ F_L=F_Z\\
 q\cdot B\cdot v = \frac {m\cdot v^2} {r}
 $$
 
-![Untitled](Flugbahn%20Elektron.png)
+![](Magnetisches%20Feld/Flugbahn%20Elektron.png)
 
 Wenn man diese Formel nun nach $r$ umstellt kann man herausfinden, wo das Elektron wieder aus dem Feld austritt:
 

@@ -4,7 +4,7 @@
 
 Ein elektromagnetischer Schwingkreis kann verwendet werden um Elektromagnetische Wellen zu erzeugen. Dafür brauchen wir einen Kondensator, der mit einer Spule in einen Kreis geschaltet ist.
 
-![Untitled](Aufbau%20mit%20Kondensator%20und%20Spule.png)
+![](Elektromagnetische%20Schwingungen%20und%20Wellen/Aufbau%20mit%20Kondensator%20und%20Spule.png)
 
 Der geladene Kondensator entlädt sich langsam über die Spule. Weil die Spule dabei durch Selbstinduktion ein magnetisches Feld erzeugt, werden die Ladungen nicht gleichmäßig auf beide Platten verteilt, sondern auf die andere Platte gezogen. Der Kondensator ist nun wieder geladen und das ganze passiert nochmal. Ohne Energieverluste könnte dieser Elektromagnetische Schwingkreis unendlich lange laufen.
 
@@ -26,17 +26,17 @@ Dabei ist $C$ die Kapazität des Kondensators und $L$ die Induktivität der Spul
 
 Der Herzsche Dipol ist die einfachste Form eines [Elektromagnetischen Schwingkreises](https://www.notion.so/Physik-Q3-K1-ae4af428767c474fbb57779bc010ed1a?pvs=21). Er entsteht, indem man den Elektromagnetischen Schwingkreis "auseinanderbiegt".
 
-![Untitled](Herzscher%20Dipol.png)
+![](Elektromagnetische%20Schwingungen%20und%20Wellen/Herzscher%20Dipol.png)
 
 ## Aufbau elektromagnetischer Wellen
 
 Durch einen Elektromagnetischen Schwingkreis oder einem Hertzschen Dipol lassen sich Elektromagnetische Wellen erzeugen. Diese Elektromagnetischen Wellen breiten sich dann vom Sender aus in alle Richtungen aus. Die Welle besteht dabei aus einem E-Feld und einem B-Feld, die sich getrennt von einander ausbreiten. E-Feld und B-Feld stehen dabei senkrecht zu einander und sind polarisiert.
 
-![Untitled](Orthogonale%20Wellen.png)
+![](Elektromagnetische%20Schwingungen%20und%20Wellen/Orthogonale%20Wellen.png)
 
 ## Polarisation von elektromagnetischen Wellen
 
-Wie in der [Grafik oben](https://www.notion.so/Physik-Q3-K1-ae4af428767c474fbb57779bc010ed1a?pvs=21) zu sehen ist, verlaufen E-Feld und B-Feld bei elektromagnetischen Wellen Senkrecht zu einander. E-Feld und B-Feld sind dabei polarisiert. Das heißt, dass man das E-Feld nur auf einer Ebene empfangen kann und das B-Feld nur auf einer anderen Ebene empfangen kann.
+Wie in der Grafik oben zu sehen ist, verlaufen E-Feld und B-Feld bei elektromagnetischen Wellen Senkrecht zu einander. E-Feld und B-Feld sind dabei polarisiert. Das heißt, dass man das E-Feld nur auf einer Ebene empfangen kann und das B-Feld nur auf einer anderen Ebene empfangen kann.
 
 Als Konsequenz kann man die Energie der Welle nicht mehr mit einer Empfängerantenne nutzen, wenn man diese um 90° zur Senderantenne dreht. Das Licht an der Empfängerantenne würde dabei ausgehen.
 
@@ -46,11 +46,11 @@ Als Konsequenz kann man die Energie der Welle nicht mehr mit einer Empfängerant
 
 ### Polarisation durch Folien
 
-Licht kann durch verschiedene Folien polarisisert werden. Licht, welches normalerweise Schwingungen in alle möglichen Richtungen senkrecht zur Ausbreitungsrichtung hat, wird dadruch auf nur eine Schwingungsrichtung reduziert:
+Licht kann durch verschiedene Folien polarisisert werden. Licht, welches normalerweise Schwingungen in alle möglichen Richtungen senkrecht zur Ausbreitungsrichtung hat, wird dadurch auf nur eine Schwingungsrichtung reduziert:
 
 In dieser Grafik strahlt das Licht aus der Papierebene raus auf den Betrachter (das bist in diesem Fall du) zu. Der schwarze Punkt in der Mitte ist der Lichtstrahl in seiner groben Form.
 
-![Untitled](Polarisation%20durch%20Folien.png)
+![](Elektromagnetische%20Schwingungen%20und%20Wellen/Polarisation%20durch%20Folien.png)
 
 ### Polarisation durch Reflexion
 
@@ -58,7 +58,7 @@ Wenn Licht an der Oberfläche eines anderen Mediums reflektiert wird, wird es of
 
 **$n_2$ und $n_1$** sind hierbei die **Brechungsindizes** der beiden Medien oben und unten in der Grafik
 
-![Untitled](Polarisation%20durch%20Reflektion.png)
+![](Elektromagnetische%20Schwingungen%20und%20Wellen/Polarisation%20durch%20Reflektion.png)
 
 **Herleitung:**
 
@@ -80,7 +80,7 @@ $$
 
 Das lässt sich an folgendem Beispiel geometrisch darstellen. Hier trifft eine Wellenfront schräg auf eine Wand. Nach Huygen sind alle Punkte neue Ausgangspunkte von Kreisförmigen Elementarwellen:
 
-![Untitled](Huygensche%20Prinzip.png)
+![](Elektromagnetische%20Schwingungen%20und%20Wellen/Huygensche%20Prinzip.png)
 
 **Beachte:** Die blauen Kreise gehen in der Grafik in alle Richtungen. Allerdings ist selbstverständlich, dass sich die Elementarwellen nur in der oberen Hälfte ausbreiten, da unterhalb der waagerechten Linie die Wand ist. Es ist also durchaus sinnvoller nur Halbkreise zu zeichnen.
 
@@ -90,7 +90,7 @@ Wenn Licht von einem Medium in ein anderes Medium wechselt, bricht es und verän
 
 Das Licht trifft von links oben auf die Oberfläche. Der Strahl mit dem Pfeil stellt den Lichtstrahl dar.
 
-![Untitled](Brechnung%20im%20Wellenmodell.png)
+![](Elektromagnetische%20Schwingungen%20und%20Wellen/Brechnung%20im%20Wellenmodell.png)
 
 **Herleitung:**
 
@@ -114,17 +114,14 @@ $$
 
 Erklären kann man dieses Phänomen mit Hilfe von Elementarwellen:
 
-![Untitled](Elementarwellen.png)
-
-## Dispersion
-
+![](Elektromagnetische%20Schwingungen%20und%20Wellen/Elementarwellen.png)
 # Interferenzphänomene
 
 ## Doppelspalt
 
 ### Interferenzmuster beim Doppelspalt
 
-![Untitled](Interferenzmuster%20Doppelspalt.png)
+![](Elektromagnetische%20Schwingungen%20und%20Wellen/Interferenzmuster%20Doppelspalt.png)
 
 Beim Doppelspalt sind alle Maxima gleich breit. Die Intensität (Höhe) der Maxima nimmt mit zunehmender Ordnung ab. Der Einzelspalt dient als Einhüllende.
 
@@ -134,7 +131,7 @@ Wird Licht durch einen Doppelspalt geschickt, kann man auf einem dahinterliegend
 
 Wenn es darum geht die Positionen und Winkel der Maxima und Minima auf dem Schirm zu bestimmen, kommt dieses Schaubild zur Hilfe:
 
-![Untitled](Entstehung%20Doppelspalt.png)
+![](Elektromagnetische%20Schwingungen%20und%20Wellen/Entstehung%20Doppelspalt.png)
 
 Dabei wird angenommen, dass beide Strahlen fast parallel zu einander sind, da sie eine weite Strecke bis zum Schirm zurücklegen und ihr Winkel sich dabei nur marginal unterscheidet. Der Winkel $\alpha$ ist zu berechnen und bezeichnet hier den Winkel des Maximas/MInimas. 
 
@@ -185,13 +182,13 @@ $$
 
 ### Interferenzmuster beim Einzelspalt
 
-![Untitled](Interferenzmuster%20Einfachspalt.png)
+![](Elektromagnetische%20Schwingungen%20und%20Wellen/Interferenzmuster%20Einfachspalt.png)
 
 Beim Einzelspalt ist das Maxima erster Ordnung ist das “nullte” Maximum in der Mitte doppelt so breit wie die anderen Maxima. Die Intensität (Höhe) nimmt mit zunehmender Ordnung ab.
 
 ### Herleitung am Schaubild
 
-![Untitled](Entstehung%20Einfachspalt.png)
+![](Elektromagnetische%20Schwingungen%20und%20Wellen/Entstehung%20Einfachspalt.png)
 
 Verstehen ist der Einzelspalt als eine Ansammlung an vielen verschiedenen parallel verlaufenden Lichtstrahlen. Diese Lichtstrahlen müssen in einem Gangunterschied von einem Vielfachen der Wellenlänge $\lambda$ verlaufen um sich konstruktiv gegenseitig zu verstärken. Wenn zwei Lichtstrahlen jedoch mit einem Gangunterschied von einer halben Wellenlänge, also $\frac \lambda 2$ schwingen, löschen sie sich gegenseitig vollständig aus.
 
@@ -229,7 +226,7 @@ $$
 
 ### Interferenmuster beim Gitter
 
-![Untitled](Interferenzmuster%20Gitter.png)
+![](Elektromagnetische%20Schwingungen%20und%20Wellen/Interferenzmuster%20Gitter.png)
 
 Beim Gitter sind die Maxima alle gleich breit. Zwischen ihnen sind über proportional kleinere Nebenmaxima. Die Intensität (Höhe) verringert ich langsamer als bei anderen Spalten
 

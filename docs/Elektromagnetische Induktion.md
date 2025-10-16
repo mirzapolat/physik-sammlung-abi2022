@@ -43,7 +43,7 @@ $$
 B=\mu_0 \cdot\mu_r \cdot \frac n l \cdot I
 $$
 
-![Untitled](Magnetfeld%20Spule.png)
+![](Elektromagnetische%20Induktion/Magnetfeld%20Spule.png)
 
 ### Magnetfeld in Helmholz-Spulen
 
@@ -53,7 +53,7 @@ $$
 B=\mu_0\cdot \frac {8} {\sqrt{125}}\cdot \frac {n\cdot I} {r}
 $$
 
-![Untitled](Magnetfeld%20Helmholz.png)
+![](Elektromagnetische%20Induktion/Magnetfeld%20Helmholz.png)
 
 # Energieerhaltung und Lenzsche Regel
 
@@ -65,7 +65,7 @@ Durch das Lenzsche Gesetz bekommen die Formel für die Induktionsspannungen ein 
 
 Wirbelströme können entstehen, wenn sich zum Beipiel eine Metallplatte durch ein kleineres Magnetfeld bewegt. 
 
-![](Wirbelströme%20Magnetfeld.png)
+![](Elektromagnetische%20Induktion/Wirbelströme%20Magnetfeld.png)
 
 Die Lorenzkraft bewirkt, dass die Elektronen (nach der Drei-Finger-Regel) nach links gedrückt werden und nur auf die Seite ausweichen können, auf der kein Magnetfeld ist. Somit fließen sie innerhalb des Magnetfeldes in die eine richtung und außerhalb des Magnetfeldes in die andere.
 
@@ -77,7 +77,7 @@ Vorraussetzung dafür ist, dass sich der Magnetische Fluss verändern muss. Dies
 
 Baut man eine Spule in einen Stromkreis ein, verzögert sich der Strom durch die Selbstinduktion, die innerhalb der Spule entsteht.
 
-![](Magnetfeld%20mit%20und%20ohne%20Spule.png)
+![](Elektromagnetische%20Induktion/Magnetfeld%20mit%20und%20ohne%20Spule.png)
 
 Beim Einschalten wird in der Spule ein Magnetfeld erzeugt. Dieses Wirkt, der Ursache seiner Entstehung entgegen (nach Lenzscher Regel) und bremst somit den Strom. Beim Ausschalten passiert das selbe in entgegengesetzter Richtung.
 
@@ -112,7 +112,7 @@ $$
 
 Eine Moglichekeit um Wechselnspannung zu erzeugen ist mit Hilfe einer sich drehenden Leiterschleife in einem homogenen Magnetfeld.
 
-![](Drehende%20Leiterschleife%20in%20Magnetfeld.png)
+![](Elektromagnetische%20Induktion/Drehende%20Leiterschleife%20in%20Magnetfeld.png)
 
 Da sich die Richtung, aus der das Magnetfeld kommt nicht ändert, verändert sich durch die Drehung der Spule die Fläche (also die Anzahl der Magnetfeldlinien, die durch die Spule kommen). Da es aber eine Drehung ist verändert sich diese Fläche nicht konstant. Abhängig ist die Fläche von dem Winkel der Drehung und der Länge des Stabes.
 

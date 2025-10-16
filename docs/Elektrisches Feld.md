@@ -46,7 +46,7 @@ Der Betrag der elektrischen Feldstärke ist also propotrional zur Ladung $Q$ und
 
 Die elektrische Spannung lässt sich gut an folgendem Beispiel darstellen. Zwei Kondensatorplatten werden an eine Spannungsquelle angeschlossen und aufgeladen. Danach werden sie von der Spannungsquelle getrennt und auseinandergezogen.
 
-![](Spannung%20Kondensatorplatten.png)
+![](Elektrisches%20Feld/Spannung%20Kondensatorplatten.png)
 
 Beim Auseinanderziehen der Kondensatorplatten wird Arbeit gegen die Feldkräfte investriert. Dadurch vergrößert sich die Energie des elektrischen Feldes (ähnlich wie mit potenzieller Energie).
 
@@ -60,7 +60,7 @@ $$
 
 ## Die Coulomb-Kraft
 
-Die Formel für die [elektrische Feldstärke bei Punktladungen](Elektrisches%20Feld.md) kann auch bei der Coulomb-Kraft weiterhelfen. Die Coulomb-Kraft ist die Kraft die eine Ladung $q_1$ auf eine zweite Ladung $q_2$ auf den Abstand $r$ ausübt.
+Die Formel für die elektrische Feldstärke bei Punktladungen kann auch bei der Coulomb-Kraft weiterhelfen. Die Coulomb-Kraft ist die Kraft die eine Ladung $q_1$ auf eine zweite Ladung $q_2$ auf den Abstand $r$ ausübt.
 
 Die Formel dafür ist:
 
@@ -100,13 +100,13 @@ Die Einheit der Kapazität ist $\frac {1C} {1V}=1F$ (Farad).
 
 ## Plattenkondensator
 
-Die [Kapazität](Elektrisches%20Feld.md) eines Plattenkondensators kann durch diese Formel berechnet werden:
+Die Kapazität eines Plattenkondensators kann durch diese Formel berechnet werden:
 
 $$
 C=\epsilon_0\cdot \epsilon_r\cdot \frac A d
 $$
 
-$A$ ist der Flächeninhalt der Platten und $d$ ist der Abstand, den die beiden Platten zu einander haben. Die konstante $\epsilon_r$ ist die Dieelektrizitätskonstante des Materials zwischen den beiden Platten. Ist diese Zahl nicht extra angegeben, ist sie $1$ (Vakuum oder Luft).
+$A$ ist der Flächeninhalt der Platten und $d$ ist der Abstand, den die beiden Platten zu einander haben. Die konstante $\epsilon_r$ ist die Elektrizitätskonstante des Materials zwischen den beiden Platten. Ist diese Zahl nicht extra angegeben, ist sie $1$ (Vakuum oder Luft).
 
 ## Feldstärken im homogenen Feld
 
@@ -190,7 +190,7 @@ Dabei steht $q$ für die Ladung, $E$ für die elektrische Feldstärke und $d$ f�
 
 # Umlenkung von Ladungen im E-Feld am Beispiel der Elektronenstrahlablenkröhre
 
-![Untitled](Flugbahn%20Kondensatorplatten.png)
+![](Elektrisches%20Feld/Flugbahn%20Kondensatorplatten.png)
 
 Elektronen werden mit Hilfe einer Spannung $U_B$ beschleunigt und treten dann in das homogene Feld zwischen zwei Kondensatorplatten mit der Spannung $U_K$ und einem Abstand von $d$ ein. Die Gesamte Auslenkung $y$  beim Austritt aus dem Feld ist dann:
 
@@ -210,7 +210,7 @@ $$
 
 Dioden sind elektrische Bauteile, die Strom nur in eine Richtung fließen lassen. Dioden selbst, leuchten nicht, es gibt allerdings Leuchtdioden (LED), welche energie Abstrahlen. Meist ist diese Energie in Form von Licht zu sehen.
 
-![Dioden im Schaltplan](Dioden%20im%20Schaltplan.png)
+![](Elektrisches%20Feld/Dioden%20im%20Schaltplan.png)
 
 Dioden im Schaltplan
 
@@ -222,12 +222,12 @@ Die eine Seite ist n-Dotiert. Das heißt, dass zufällige Atome aus dem Material
 
 Die andere Seite ist p-Dotiert. Das heißt, dass Atome so ausgetauscht werden, dass weniger Außenelektronen vorhanden sind, als genutzt werden, sodass “Löcher” entstehen, die positiv geladen sind (rechts zu sehen).
 
-![Untitled](P%20und%20N%20Dotierung.png)
+![](Elektrisches%20Feld/P%20und%20N%20Dotierung.png)
 
 In der Mitte zwischen den beiden Seiten ist eine Sperrschicht. Der gesamte Aufbau sieht dann wie folgt aus:
 
-![Untitled](P%20und%20N%20Kristall.png)
+![](Elektrisches%20Feld/P%20und%20N%20Kristall.png)
 
 Wenn nun eine Spannung angeschlossen wird, treten zwei Fälle auf:
 
-![Untitled](P%20und%20N%20Durchlassrichtung.png)
+![](Elektrisches%20Feld/P%20und%20N%20Durchlassrichtung.png)

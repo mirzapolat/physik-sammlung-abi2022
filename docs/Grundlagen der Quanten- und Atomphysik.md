@@ -31,13 +31,13 @@ Das Plancksche Wirkungsquantum $h$ hat dabei einen konstanten Wert von circa $6,
 
 Der genaue Wert von $h$ wurde mit einem Versuch ermittelt. Der Versuchsaufbau sieht wie folgt aus:
 
-![Untitled](Äußerer%20Fotoeffekt.png)
+![](Grundlagen%20der%20Quanten-%20und%20Atomphysik/Äußerer%20Fotoeffekt.png)
 
 Die Ringanode und die Fotokathode sind in einem vakuumisierten Behälter, sodass keine störende Luft vorhanden ist. von außen wird nun Licht auf die Fotokathode gestrahlt. Die Fotokathode ist aus einem bestimmten Metall. Deswegen lösen sich nach dem Fotoeffekt Elektronen aus dem Metall der Fotokathode. Diese Elektronen bewegen sich nun mit einer bestimmten Energie durch den Raum. Nun wird zwischen Kathode und Anode wird eine Spannung angelegt, die langsam erhöht wird, bis die Elektronen nicht mehr bei der Ringanode ankommen. Wenn es so weit ist, bedeutet das, dass die elektrische Energie der Spannung genau so groß ist, wie die kinetische Energie der Elektronen. So kann man herausfinden, wie viel kinetische Energie $W_\text{kin}$ die losgelösten Elektronen bei einer bestimmten Frequenz haben.
 
 Aus den gewonnenen Messwerten, kann man folgendes Diagramm zusammenstellen:
 
-![Y-Achse beschreibt kinetische Energie; X-Achse beschreibt Frequenz des Lichts](Plancksches%20Wirkungsquantum.png)
+![](Grundlagen%20der%20Quanten-%20und%20Atomphysik/Plancksches%20Wirkungsquantum.png)
 
 Y-Achse beschreibt kinetische Energie; X-Achse beschreibt Frequenz des Lichts
 
@@ -104,7 +104,7 @@ Teilchen besitzen also Teilchen- und Welleneigenschaften.
 
 Wenn ein Photon auf ein Elektron stößt, wird es daran gestreut. Dabei vergrößert sich die Wellenlänge des Photons.
 
-![Untitled](Compton%20Effekt.png)
+![](Grundlagen%20der%20Quanten-%20und%20Atomphysik/Compton%20Effekt.png)
 
 Die Zunahme der Wellenlänge des Photons bei einer Streuung um den Winkel $\vartheta$ (Theta) lässt sich durch folgenden Formel berechnen:
 
