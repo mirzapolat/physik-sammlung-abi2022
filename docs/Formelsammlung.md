@@ -1,5 +1,3 @@
-# Die Physik Formelsammlung
-
 # Elektrische Felder
 
 ## Elektrische Feldstärke

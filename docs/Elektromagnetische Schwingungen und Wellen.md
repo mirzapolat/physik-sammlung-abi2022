@@ -1,16 +1,10 @@
-# Elektromagnetische Schwingungen und Wellen
-
-erstellt von Mirza Polat ©️ 2022
-
----
-
 # Allgemeines
 
 ## Elektromagnetischer Schwingkreis
 
 Ein elektromagnetischer Schwingkreis kann verwendet werden um Elektromagnetische Wellen zu erzeugen. Dafür brauchen wir einen Kondensator, der mit einer Spule in einen Kreis geschaltet ist.
 
-![Untitled](Elektromagnetische%20Schwingungen%20und%20Wellen%2073bb2fd92119462e8ed27c7b17cb18ef/Untitled.png)
+![Untitled](Aufbau%20mit%20Kondensator%20und%20Spule.png)
 
 Der geladene Kondensator entlädt sich langsam über die Spule. Weil die Spule dabei durch Selbstinduktion ein magnetisches Feld erzeugt, werden die Ladungen nicht gleichmäßig auf beide Platten verteilt, sondern auf die andere Platte gezogen. Der Kondensator ist nun wieder geladen und das ganze passiert nochmal. Ohne Energieverluste könnte dieser Elektromagnetische Schwingkreis unendlich lange laufen.
 
@@ -32,13 +26,13 @@ Dabei ist $C$ die Kapazität des Kondensators und $L$ die Induktivität der Spul
 
 Der Herzsche Dipol ist die einfachste Form eines [Elektromagnetischen Schwingkreises](https://www.notion.so/Physik-Q3-K1-ae4af428767c474fbb57779bc010ed1a?pvs=21). Er entsteht, indem man den Elektromagnetischen Schwingkreis "auseinanderbiegt".
 
-![Untitled](Elektromagnetische%20Schwingungen%20und%20Wellen%2073bb2fd92119462e8ed27c7b17cb18ef/Untitled%201.png)
+![Untitled](Herzscher%20Dipol.png)
 
 ## Aufbau elektromagnetischer Wellen
 
 Durch einen Elektromagnetischen Schwingkreis oder einem Hertzschen Dipol lassen sich Elektromagnetische Wellen erzeugen. Diese Elektromagnetischen Wellen breiten sich dann vom Sender aus in alle Richtungen aus. Die Welle besteht dabei aus einem E-Feld und einem B-Feld, die sich getrennt von einander ausbreiten. E-Feld und B-Feld stehen dabei senkrecht zu einander und sind polarisiert.
 
-![Untitled](Elektromagnetische%20Schwingungen%20und%20Wellen%2073bb2fd92119462e8ed27c7b17cb18ef/Untitled%202.png)
+![Untitled](Orthogonale%20Wellen.png)
 
 ## Polarisation von elektromagnetischen Wellen
 
@@ -56,7 +50,7 @@ Licht kann durch verschiedene Folien polarisisert werden. Licht, welches normale
 
 In dieser Grafik strahlt das Licht aus der Papierebene raus auf den Betrachter (das bist in diesem Fall du) zu. Der schwarze Punkt in der Mitte ist der Lichtstrahl in seiner groben Form.
 
-![Untitled](Elektromagnetische%20Schwingungen%20und%20Wellen%2073bb2fd92119462e8ed27c7b17cb18ef/Untitled%203.png)
+![Untitled](Polarisation%20durch%20Folien.png)
 
 ### Polarisation durch Reflexion
 
@@ -64,7 +58,7 @@ Wenn Licht an der Oberfläche eines anderen Mediums reflektiert wird, wird es of
 
 **$n_2$ und $n_1$** sind hierbei die **Brechungsindizes** der beiden Medien oben und unten in der Grafik
 
-![Untitled](Elektromagnetische%20Schwingungen%20und%20Wellen%2073bb2fd92119462e8ed27c7b17cb18ef/Untitled%204.png)
+![Untitled](Polarisation%20durch%20Reflektion.png)
 
 **Herleitung:**
 
@@ -86,7 +80,7 @@ $$
 
 Das lässt sich an folgendem Beispiel geometrisch darstellen. Hier trifft eine Wellenfront schräg auf eine Wand. Nach Huygen sind alle Punkte neue Ausgangspunkte von Kreisförmigen Elementarwellen:
 
-![Untitled](Elektromagnetische%20Schwingungen%20und%20Wellen%2073bb2fd92119462e8ed27c7b17cb18ef/Untitled%205.png)
+![Untitled](Huygensche%20Prinzip.png)
 
 **Beachte:** Die blauen Kreise gehen in der Grafik in alle Richtungen. Allerdings ist selbstverständlich, dass sich die Elementarwellen nur in der oberen Hälfte ausbreiten, da unterhalb der waagerechten Linie die Wand ist. Es ist also durchaus sinnvoller nur Halbkreise zu zeichnen.
 
@@ -96,7 +90,7 @@ Wenn Licht von einem Medium in ein anderes Medium wechselt, bricht es und verän
 
 Das Licht trifft von links oben auf die Oberfläche. Der Strahl mit dem Pfeil stellt den Lichtstrahl dar.
 
-![Untitled](Elektromagnetische%20Schwingungen%20und%20Wellen%2073bb2fd92119462e8ed27c7b17cb18ef/Untitled%206.png)
+![Untitled](Brechnung%20im%20Wellenmodell.png)
 
 **Herleitung:**
 
@@ -120,7 +114,7 @@ $$
 
 Erklären kann man dieses Phänomen mit Hilfe von Elementarwellen:
 
-![Untitled](Elektromagnetische%20Schwingungen%20und%20Wellen%2073bb2fd92119462e8ed27c7b17cb18ef/Untitled%207.png)
+![Untitled](Elementarwellen.png)
 
 ## Dispersion
 
@@ -130,7 +124,7 @@ Erklären kann man dieses Phänomen mit Hilfe von Elementarwellen:
 
 ### Interferenzmuster beim Doppelspalt
 
-![Untitled](Elektromagnetische%20Schwingungen%20und%20Wellen%2073bb2fd92119462e8ed27c7b17cb18ef/Untitled%208.png)
+![Untitled](Interferenzmuster%20Doppelspalt.png)
 
 Beim Doppelspalt sind alle Maxima gleich breit. Die Intensität (Höhe) der Maxima nimmt mit zunehmender Ordnung ab. Der Einzelspalt dient als Einhüllende.
 
@@ -140,7 +134,7 @@ Wird Licht durch einen Doppelspalt geschickt, kann man auf einem dahinterliegend
 
 Wenn es darum geht die Positionen und Winkel der Maxima und Minima auf dem Schirm zu bestimmen, kommt dieses Schaubild zur Hilfe:
 
-![Untitled](Elektromagnetische%20Schwingungen%20und%20Wellen%2073bb2fd92119462e8ed27c7b17cb18ef/Untitled%209.png)
+![Untitled](Entstehung%20Doppelspalt.png)
 
 Dabei wird angenommen, dass beide Strahlen fast parallel zu einander sind, da sie eine weite Strecke bis zum Schirm zurücklegen und ihr Winkel sich dabei nur marginal unterscheidet. Der Winkel $\alpha$ ist zu berechnen und bezeichnet hier den Winkel des Maximas/MInimas. 
 
@@ -191,13 +185,13 @@ $$
 
 ### Interferenzmuster beim Einzelspalt
 
-![Untitled](Elektromagnetische%20Schwingungen%20und%20Wellen%2073bb2fd92119462e8ed27c7b17cb18ef/Untitled%2010.png)
+![Untitled](Interferenzmuster%20Einfachspalt.png)
 
 Beim Einzelspalt ist das Maxima erster Ordnung ist das “nullte” Maximum in der Mitte doppelt so breit wie die anderen Maxima. Die Intensität (Höhe) nimmt mit zunehmender Ordnung ab.
 
 ### Herleitung am Schaubild
 
-![Untitled](Elektromagnetische%20Schwingungen%20und%20Wellen%2073bb2fd92119462e8ed27c7b17cb18ef/Untitled%2011.png)
+![Untitled](Entstehung%20Einfachspalt.png)
 
 Verstehen ist der Einzelspalt als eine Ansammlung an vielen verschiedenen parallel verlaufenden Lichtstrahlen. Diese Lichtstrahlen müssen in einem Gangunterschied von einem Vielfachen der Wellenlänge $\lambda$ verlaufen um sich konstruktiv gegenseitig zu verstärken. Wenn zwei Lichtstrahlen jedoch mit einem Gangunterschied von einer halben Wellenlänge, also $\frac \lambda 2$ schwingen, löschen sie sich gegenseitig vollständig aus.
 
@@ -235,7 +229,7 @@ $$
 
 ### Interferenmuster beim Gitter
 
-![Untitled](Elektromagnetische%20Schwingungen%20und%20Wellen%2073bb2fd92119462e8ed27c7b17cb18ef/Untitled%2012.png)
+![Untitled](Interferenzmuster%20Gitter.png)
 
 Beim Gitter sind die Maxima alle gleich breit. Zwischen ihnen sind über proportional kleinere Nebenmaxima. Die Intensität (Höhe) verringert ich langsamer als bei anderen Spalten
 

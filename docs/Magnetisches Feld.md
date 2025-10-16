@@ -1,11 +1,5 @@
 # Magnetisches Feld
 
-erstellt von Mirza Polat ©️ 2022
-
----
-
-# Magnetisches Feld
-
 ## Die Magnetische Flussdichte
 
 Die magnetische Flussdichte gibt an, wie stark ein Magnetfeld ist. Sie gibt praktisch an, wie viel “Magnetfeld” pro Fläche existiert.
@@ -32,7 +26,7 @@ $$
 
 Wenn man durch einen quaderförmigen, leitenden Metallblock strom fließen lässt, während orthogonal zur Stromflussrichtung ein Magnetfeld im Metallblock herrscht, werden die Elektronen beim Fließen nach oben oder unten innerhalb des Metallblocks ausgelenkt. 
 
-Die Richtung, in die die Elektronen ausgelenkt werden lässt sich mit der [Linken-Hand-Regel](Magnetisches%20Feld%20ad4177412222484595b0193098576a90.md) ermitteln.
+Die Richtung, in die die Elektronen ausgelenkt werden lässt sich mit der [Linken-Hand-Regel](Magnetisches%20Feld.md) ermitteln.
 
 Wenn die Elektronen innerhalb des Metallblocks in eine Richung verschoben werden entsteht auf der einen Seite des Blocks ein Elektronenüberschuss und auf der anderen Seite des Blocks ein Elektronendefizit. Daraus entsteht eine Spannung innerhalb des Blocks. Diese Spannung wird Hall-Spannung genannt.
 
@@ -115,7 +109,7 @@ $$
 
 ### Linke-Hand Regel
 
-![Untitled](Magnetisches%20Feld%20ad4177412222484595b0193098576a90/Untitled.png)
+![Untitled](Drei%20Finger%20Regel.png)
 
 Wenn man die linke Hand so hält und der Daumen in die Richtung, in die sich die Ladungen bewegen und der Zeigefinger in die Richtung der Magnetfeldlinien zeigt, gibt der Mittelfinger dann die Richtung der Lorenzkraft an.
 
@@ -128,7 +122,7 @@ F_L=F_Z\\
 q\cdot B\cdot v = \frac {m\cdot v^2} {r}
 $$
 
-![Untitled](Magnetisches%20Feld%20ad4177412222484595b0193098576a90/Untitled%201.png)
+![Untitled](Flugbahn%20Elektron.png)
 
 Wenn man diese Formel nun nach $r$ umstellt kann man herausfinden, wo das Elektron wieder aus dem Feld austritt:
 

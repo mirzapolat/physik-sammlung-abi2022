@@ -1,9 +1,3 @@
-# Mechanische Schwingungen und Wellen
-
-erstellt von Mirza Polat ©️ 2022
-
----
-
 # Grundlagen bei Schwingungen
 
 ## Grundbegriffe
@@ -104,7 +98,7 @@ Man kann es sich wie mit mehreren Röhren vorstellen. In jeder Röhre befindet s
 
 Natürlich funktioniert das in der Realität nicht mit Röhren. Dies ist eine Vereinfachung.
 
-![Untitled](Mechanische%20Schwingungen%20und%20Wellen%2013fa0c09be244003bee0fcb95bd55b42/Untitled.png)
+![Untitled](Modell%20Mechanische%20Schwingungen.png)
 
 ## Unterschied zwischen Schwingung und Welle
 
@@ -141,7 +135,7 @@ Die oben beschriebene Formel gilt für eine von links nach rechts (in positiver 
 
 Das Superpositionsprinip beschreibt, was passiert, wenn sich zwei (oder mehr) Wellen durchringen, ohne sich gegenseitig zu beeinflussen. Man muss sich eigentlich nur merken, dass sich die Amplituden (mit richtigem Vorzeichen) an jedem beliebigen Punkt addieren.
 
-![Untitled](Mechanische%20Schwingungen%20und%20Wellen%2013fa0c09be244003bee0fcb95bd55b42/Untitled%201.png)
+![Untitled](Konstruktiv%20und%20Dekonstruktiv.png)
 
 Dabei wird eine Interferenz, bei der die Welle "stärker" wird **konstruktiv** und eine Interferenz, bei der die Welle "schwächer" wird **destruktiv** genannt
 
@@ -149,7 +143,7 @@ Dabei wird eine Interferenz, bei der die Welle "stärker" wird **konstruktiv** u
 
 Im oben gezeigten Schaubild lässt sich leicht erkennen, wie die resultierende Welle aussieht, wenn die Wellen perfekt konstruktiv (A) oder perfekt destruktiv (B) interferieren. Jedoch ist es nicht unwahrscheinlich, dass sich die beiden interferierenden Wellen mit einer anderen Veschiebung durchdringen. 
 
-![Untitled](Mechanische%20Schwingungen%20und%20Wellen%2013fa0c09be244003bee0fcb95bd55b42/Untitled%202.png)
+![Untitled](Überlagerung%20von%20Wellen.png)
 
 Wenn dies der Fall ist, ist es sinnvoll die einzelnen Pfeile an signifikanten Stellen im Graphen der Schwinung einzuzeichnen und aneinander zu hängen.
 
@@ -159,11 +153,11 @@ Bei der Reflexion von Wellen wird zwischen Wellen mit einem Wellenträger mit **
 
 Bei einem losen Ende, wird einfach weitergezeichnet und dann an der Linie des Endes umgeklappt. Das sieht dann so aus:
 
-![Untitled](Mechanische%20Schwingungen%20und%20Wellen%2013fa0c09be244003bee0fcb95bd55b42/Untitled%203.png)
+![Untitled](Loses%20Ende.png)
 
 Bei einem festen Ende wird weitergezeichnet und dann bevor umgeklppt wird noch gespiegelt. Das sieht dann so aus:
 
-![Untitled](Mechanische%20Schwingungen%20und%20Wellen%2013fa0c09be244003bee0fcb95bd55b42/Untitled%204.png)
+![Untitled](Festes%20Ende.png)
 
 ## Stehende Wellen
 
