@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Elektrisches Feld.md",
+                "file": "pages/Elektrisches Feld.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Elektrisches Feld.md",
+                "file": "pages/Elektrisches Feld.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Mechanische Schwingungen und Wellen.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechanische Schwingungen und Wellen"
+              "title": "README"
             }
           }
         ],
@@ -113,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweis"
+              "title": "Rückverweise für README"
             }
           },
           {
@@ -169,27 +170,27 @@
   },
   "active": "78bab570e0e83991",
   "lastOpenFiles": [
-    "index.md",
+    "pages/Mechanische Schwingungen und Wellen.md",
     "README.md",
-    "docs/Mechanische Schwingungen und Wellen.md",
+    "README.md",
     "_config.yml",
-    "docs/Magnetisches Feld.md",
-    "docs/Grundlagen der Quanten- und Atomphysik.md",
-    "docs/Formelsammlung.md",
-    "docs/Elektromagnetische Schwingungen und Wellen.md",
-    "docs/Elektromagnetische Induktion.md",
-    "docs/Elektrisches Feld.md",
+    "pages/Magnetisches Feld.md",
+    "pages/Grundlagen der Quanten- und Atomphysik.md",
+    "pages/Formelsammlung.md",
+    "pages/Elektromagnetische Schwingungen und Wellen.md",
+    "pages/Elektromagnetische Induktion.md",
+    "pages/Elektrisches Feld.md",
     "_sidebar.md",
     "index.html",
-    "docs/Mechanische Schwingungen und Wellen/Festes Ende.png",
-    "docs/Mechanische Schwingungen und Wellen/Loses Ende.png",
-    "docs/Mechanische Schwingungen und Wellen/Überlagerung von Wellen.png",
-    "docs/Mechanische Schwingungen und Wellen/Konstruktiv und Dekonstruktiv.png",
-    "docs/Mechanische Schwingungen und Wellen/Modell Mechanische Schwingungen.png",
-    "docs/Magnetisches Feld/Flugbahn Elektron.png",
-    "docs/Magnetisches Feld/Drei Finger Regel.png",
-    "docs/Grundlagen der Quanten- und Atomphysik/Compton Effekt.png",
-    "docs/Grundlagen der Quanten- und Atomphysik/Plancksches Wirkungsquantum.png",
-    "docs/Grundlagen der Quanten- und Atomphysik/Äußerer Fotoeffekt.png"
+    "pages/Mechanische Schwingungen und Wellen/Festes Ende.png",
+    "pages/Mechanische Schwingungen und Wellen/Loses Ende.png",
+    "pages/Mechanische Schwingungen und Wellen/Überlagerung von Wellen.png",
+    "pages/Mechanische Schwingungen und Wellen/Konstruktiv und Dekonstruktiv.png",
+    "pages/Mechanische Schwingungen und Wellen/Modell Mechanische Schwingungen.png",
+    "pages/Magnetisches Feld/Flugbahn Elektron.png",
+    "pages/Magnetisches Feld/Drei Finger Regel.png",
+    "pages/Grundlagen der Quanten- und Atomphysik/Compton Effekt.png",
+    "pages/Grundlagen der Quanten- und Atomphysik/Plancksches Wirkungsquantum.png",
+    "pages/Grundlagen der Quanten- und Atomphysik/Äußerer Fotoeffekt.png"
   ]
 }
