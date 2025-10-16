@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Mechanische Schwingungen und Wellen.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechanische Schwingungen und Wellen"
+              "title": "index"
             }
           }
         ],
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Mechanische Schwingungen und Wellen.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für Mechanische Schwingungen und Wellen"
+              "title": "Rückverweise für index"
             }
           },
           {
@@ -170,6 +170,9 @@
   },
   "active": "78bab570e0e83991",
   "lastOpenFiles": [
+    "README.md",
+    "index.md",
+    "docs/Mechanische Schwingungen und Wellen.md",
     "_config.yml",
     "docs/Magnetisches Feld.md",
     "docs/Grundlagen der Quanten- und Atomphysik.md",
@@ -177,8 +180,6 @@
     "docs/Elektromagnetische Schwingungen und Wellen.md",
     "docs/Elektromagnetische Induktion.md",
     "docs/Elektrisches Feld.md",
-    "README.md",
-    "docs/Mechanische Schwingungen und Wellen.md",
     "_sidebar.md",
     "index.html",
     "docs/Mechanische Schwingungen und Wellen/Festes Ende.png",
