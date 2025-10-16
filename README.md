@@ -4,7 +4,7 @@ erstellt von Mirza Polat ©️ 2022
 
 # Themenbereiche
 
-Die Physik Sammlung ist eine Zusammenfassung von allen Themen, die in der Oberstufe 2020-2022 behandelt wurden. Eingeteilt sind die Themen in sechs große Themenbereiche. Zuammen bilden sie den gesamten fürs Abitur relevanten Stoff aus der Oberstufe.
+Die Physik Sammlung ist eine Zusammenfassung von allen Themen, die in der Oberstufe 2020-2022 behandelt wurden. Eingeteilt sind die Themen in sechs große Themenbereiche. Zusammen bilden sie den gesamten fürs Abitur relevanten Stoff aus der Oberstufe.
 
 [Elektrisches Feld](Physik%20Sammlung%206c07d49a014844c793d2d8f8a2fdc121/Elektrisches%20Feld%207600e9b23cab411ba73d32a3d6a9efac.md)
 
